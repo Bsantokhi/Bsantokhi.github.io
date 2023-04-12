@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(44, 44, 49);
+}
+
+.name{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+    font-size: 30px;
+}
