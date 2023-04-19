@@ -4,6 +4,7 @@ body{
 
 .name{
     color: white;
+    text-align: center;
 }
 
 .nav-link{
@@ -14,4 +15,14 @@ body{
 .homeName{
     color: white;
     font-size: 30px;
+    text-align: center;
+}
+
+
+.head{
+    background-color: rgb(102, 102, 102);
+}
+
+.nav-link:hover{
+    color: rgb(160, 160, 160);
 }
