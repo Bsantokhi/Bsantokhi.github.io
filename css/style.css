@@ -6,6 +6,14 @@ body {
     height: 1500px;
 }
 
+/* body {
+    background-color: rgb(44, 44, 49);
+    background: -moz-linear-gradient(top, #09203F 10%, #537895);
+    background: -webkit-linear-gradient(top,  #09203F 10%, #537895);
+    background-repeat: no-repeat;
+    height: 1500px;
+} */
+
 
 .name {
     color: white;
