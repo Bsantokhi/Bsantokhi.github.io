@@ -1,6 +1,5 @@
 function myFunction() {
-    let element = document.body;
+    let element = document.querySelector('.body1');
     element.classList.toggle("dark-mode");
-    element.classList.remove("bi-sun");
  }
 
