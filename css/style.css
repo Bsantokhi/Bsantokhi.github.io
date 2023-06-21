@@ -1,10 +1,12 @@
 body {
     background-color: rgb(44, 44, 49);
-    background: -moz-linear-gradient(top, #BF7A30 10%, #EDD599);
-    background: -webkit-linear-gradient(top, #BF7A30 10%, #EDD599);
+    background: -moz-linear-gradient(top, #BF7A30 1%, #EDD599);
+    background: -webkit-linear-gradient(top, #BF7A30 1%, #EDD599);
     background-repeat: no-repeat;
-    height: 1500px;
+    height: 3000px;
 }
+
+
 
 
 .dark-mode {
@@ -12,7 +14,7 @@ body {
     background: -moz-linear-gradient(top, #09203f 10%, #537895);
     background: -webkit-linear-gradient(top,  #09203F 10%, #537895);
     background-repeat: no-repeat;
-    height: 1500px;
+    height: 3000px;
 }
 
 /* body {
@@ -46,7 +48,9 @@ body {
 
 }
 
-
+.card-title{
+    text-align: center;
+}
 
 
 .nav-link:hover {
@@ -63,9 +67,9 @@ body {
 }
 
 .cards {
-  
-    
+     
 }
+
 
 
 
@@ -88,15 +92,26 @@ body {
     padding-right: 30px;
 }
 
+.sector1{
+    margin-top: 100px;
+}
 
 
 .sector2{
     margin-top: 120px;
 }
 
+.sector3{
+    margin-top: 120px;
+}
 
+.sector4{
+    margin-top: 120px;
+}
 
-
+.sector5{
+    margin-top: 120px;
+}
 
 .mainColor{
     color: white;
