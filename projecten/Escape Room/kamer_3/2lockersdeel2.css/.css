@@ -1,0 +1,27 @@
+*{
+
+    background-color: rgb(114, 114, 114);
+
+}
+img{
+    width: 1730px;
+    height: 915px;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 5px;
+}
+.container .btn {
+    position: absolute;
+    top: 57.5%;
+    left: 33.6%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: white;
+    padding: 210px 84px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
