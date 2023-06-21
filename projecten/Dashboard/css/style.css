@@ -1,0 +1,75 @@
+body {
+
+    background-color: rgb(44, 44, 49);
+
+    background: -moz-linear-gradient(top, #09203F 10%, #537895);
+
+    background: -webkit-linear-gradient(top,  #09203F 10%, #537895);
+
+    background-repeat: no-repeat;
+
+    height: 2000px;
+
+}
+
+.nav-link{
+    
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.header{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+#myChart{
+    padding-top: 100px;
+}
+
+#myChart2{
+
+}
+
+.dashboardHeader{
+    color: rgba(201, 201, 201, 0.801);
+    margin-top: 60px;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+
+.dashboardHeader2{
+    color: rgba(201, 201, 201, 0.801);
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.backgroundColor{
+    background-color:  #ffffff1e;
+    border-radius: 15px;
+}
+
+.backgroundPadding{
+    background-color:  #ffffff1e;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.marketCard1{
+    color: rgb(255, 196, 0);
+}
+
+.marketCard2{
+    color: rgb(225, 0, 255);
+}
+
+.marketCard3{
+    color: rgb(255, 99, 132);
+}
