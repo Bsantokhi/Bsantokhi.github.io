@@ -3,7 +3,7 @@ body {
     background: -moz-linear-gradient(top, #BF7A30 1%, #EDD599);
     background: -webkit-linear-gradient(top, #BF7A30 1%, #EDD599);
     background-repeat: no-repeat;
-    height: 3000px;
+    height: 3600px;
 }
 
 
@@ -11,8 +11,8 @@ body {
 
 .dark-mode {
     background-color: rgb(44, 44, 49);
-    background: -moz-linear-gradient(top, #09203f 10%, #537895);
-    background: -webkit-linear-gradient(top,  #09203F 10%, #537895);
+    background: -moz-linear-gradient(top, #09203f 1%, #537895);
+    background: -webkit-linear-gradient(top,  #09203F 1%, #537895);
     background-repeat: no-repeat;
     height: 3000px;
 }
@@ -110,6 +110,10 @@ body {
 }
 
 .sector5{
+    margin-top: 120px;
+}
+
+.sector6{
     margin-top: 120px;
 }
 
